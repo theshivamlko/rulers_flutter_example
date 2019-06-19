@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ScaleWidget.dart';
+import 'package:rulers/rulers.dart';
 
 void main() => runApp(MyApp());
 
@@ -55,7 +55,7 @@ class _DemoState extends State<Demo> {
                 ),
                 Container(
                   margin: const EdgeInsets.only(top: 8.0),
-                  child: ScaleWidget(
+                  child: RulerWidget(
                     scaleSize: 100,
                     scaleColor: Colors.grey[100],
                     indicatorWidget: Column(
@@ -80,7 +80,7 @@ class _DemoState extends State<Demo> {
                 ),
                 Container(
                   margin: const EdgeInsets.only(top: 8.0),
-                  child: ScaleWidget(
+                  child: RulerWidget(
                     scaleSize: 100,
                     scaleColor: Colors.grey[100],
                     indicatorWidget: Icon(
@@ -108,7 +108,7 @@ class _DemoState extends State<Demo> {
                 ),
                 Container(
                   margin: const EdgeInsets.only(top: 8.0),
-                  child: ScaleWidget(
+                  child: RulerWidget(
                     scaleSize: 100,
                     scaleColor: Colors.yellow,
                     indicatorWidget: Column(
@@ -140,7 +140,7 @@ class _DemoState extends State<Demo> {
                 ),
                 Container(
                   margin: const EdgeInsets.only(top: 8.0),
-                  child: ScaleWidget(
+                  child: RulerWidget(
                     scaleSize: 100,
                     scaleColor: Colors.blue[100],
                     indicatorWidget: Image.asset(
@@ -171,7 +171,7 @@ class _DemoState extends State<Demo> {
                 Container(
                   margin: const EdgeInsets.only(top: 8.0),
                   alignment: Alignment.centerLeft,
-                  child: ScaleWidget(
+                  child: RulerWidget(
                     scaleColor: Colors.grey[100],
                     scaleSize: 100,
                     indicatorWidget: Column(
