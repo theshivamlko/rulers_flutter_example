@@ -1,7 +1,7 @@
 # Rulers Example
 
  Rulers Example, a custom Flutter Widget that I used in one of my app, so made a package for it
-<img src="rulers.gif" width="220" alt="Flutter Rulers" />
+<img src="https://github.com/theshivamlko/rulers_flutter_package/blob/master/rulers.gif" width="220" alt="Flutter Rulers" />
 
 <br/><br/>
 
