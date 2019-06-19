@@ -5,7 +5,7 @@
 
 
 
-<a href=https://github.com/theshivamlko/rulers_flutter_package"><b>Example code is here</b></a>
+<a href="https://github.com/theshivamlko/rulers_flutter_package"><b>Example code is here</b></a>
 <br/><br/>
 
 
