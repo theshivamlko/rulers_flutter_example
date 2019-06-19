@@ -3,9 +3,6 @@
  Rulers Example, a custom Flutter Widget that I used in one of my app, so made a package for it
  <a href="https://play.google.com/store/apps/dev?id=7703305844118303242&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60">
 
-
-
-<a href="https://github.com/theshivamlko/rulers_flutter_package"><b>Example code is here</b></a>
 <br/><br/>
 
 
