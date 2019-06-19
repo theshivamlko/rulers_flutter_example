@@ -1,17 +1,13 @@
 # Rulers Example
 
  Rulers Example, a custom Flutter Widget that I used in one of my app, so made a package for it
- <a href="https://play.google.com/store/apps/dev?id=7703305844118303242&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60">
 
 <br/><br/>
-
-
 
 ## Project Created & Maintained By
 
 ### Shivam Srivastava
-<a href="https://play.google.com/store/apps/dev?id=7703305844118303242&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60">
-</a> <a href="https://medium.com/@theshivamlko"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
+ </a> <a href="https://medium.com/@theshivamlko"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
 <a href="https://twitter.com/theshivamlko"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://linkedin.com/in/theshivamlko"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com/shivamlove11"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
@@ -25,7 +21,7 @@ License
 =======
 
  Rulers Example
- Written by Shivam Srivastava (https://www.didierboelens.com).
+ Written by Shivam Srivastava (https://github.com/theshivamlko).
 
 
  Copyright 2019 Shivam Srivastava. All rights reserved.
